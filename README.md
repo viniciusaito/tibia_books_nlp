@@ -5,10 +5,10 @@
 - Captura dos dados
 
     - Baixar todas as letras
+      - httpx + parsel - Tibia Wiki ([Página de bibliotecas](https://www.tibiawiki.com.br/wiki/Bibliotecas))
 
     ![diagrama de como os dados seram extraidos](/imgs/diagrama_scrapper.png)
-
-        - httpx + parsel - Tibia Wiki ([Página de bibliotecas](https://www.tibiawiki.com.br/wiki/Bibliotecas))
+    
 
     - Persistir
 
